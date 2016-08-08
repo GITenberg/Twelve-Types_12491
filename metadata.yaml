@@ -1,0 +1,41 @@
+_repo: Twelve-Types_12491
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    - Chesterton, Gilbert Keith
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: G.K. Chesterton's biographical essays provide unique portraits of 12
+  of Europe's most defining figures. Written by one of the world's master essayists,
+  this collection richly expresses Chesterton's thoughts on Charlotte Brontë, William
+  Morris, Byron, Pope, St. Francis of Assisi, Rostand, Charles II, Stevenson, Thomas
+  Carlyle, Tolstoy, Savonarola, and Sir Walter Scott. The book is a perfect companion
+  for any literature, politics, or history course dealing with European history. It
+  is also an excellent addition to any personal or scholarly library.
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12491'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biography'
+- !lcc 'PR'
+- !lcsh 'Character sketches'
+- !lcc 'CT'
+- !lcsh 'English literature -- History and criticism'
+- GITenberg
+tableOfContents: Charlotte Brontë -- William Morris and his school -- The optimism
+  of Byron -- Pope and the art of satire -- Francis -- Rostand -- Charles II -- Stevenson
+  -- Thomas Carlyle -- Tolstoy and the cult of simplicity -- Savonarola -- The position
+  of Sir Walter Scott.
+title: Twelve Types
+url: http://www.gutenberg.org/ebooks/12491
