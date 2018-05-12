@@ -1,5 +1,8 @@
 _repo: Twelve-Types_12491
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chesterton, G. K. (Gilbert Keith)
@@ -18,6 +21,8 @@ description: G.K. Chesterton's biographical essays provide unique portraits of 1
   Carlyle, Tolstoy, Savonarola, and Sir Walter Scott. The book is a perfect companion
   for any literature, politics, or history course dealing with European history. It
   is also an excellent addition to any personal or scholarly library.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12491#Twelve-Types
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
